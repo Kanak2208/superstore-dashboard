@@ -1,8 +1,5 @@
-# superstore-dashboard
-A Looker Studio dashboard built for supply chain analytics using the Global Superstore dataset.
-
-
 📦 Global Superstore Supply Chain Dashboard (Looker Studio)
+
 📊 Project Overview
 This project presents a detailed supply chain analysis using the Global Superstore dataset. Built using Google Looker Studio, the dashboard visualizes key business metrics such as sales, profit, order volume, and shipping performance across global regions.
 
